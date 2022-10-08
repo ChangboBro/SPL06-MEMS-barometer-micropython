@@ -8,3 +8,5 @@ The SPL06 is a high precision MEMS barometer, its resolution of altitude can up 
 It need some troublesome code to process the value you get from register and calculate altitude.
 
 2 lib files to let you trade off between the refresh rate and precision.
+
+I only tested it using my RaspberryPi Pico, didn't test it with other MCU...
