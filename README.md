@@ -3,7 +3,7 @@ A simple micropython library (class) used to drive SPL06 MEMS barometer. continu
 
 Sorry for some Chinese annotation, I didn't delete(translate) them because I'm lazy.
 
-The SPL06 is a high precision MEMS barometer, its resolution of altitude can up to 5cm! (but I think maybe it's +-10cm, still very good)
+The SPL06 is a high precision MEMS barometer, its resolution of altitude can up to 5cm! (but I think maybe +-10cm, still very good)
 
 It need some troublesome code to process the value you get from register and calculate altitude.
 
